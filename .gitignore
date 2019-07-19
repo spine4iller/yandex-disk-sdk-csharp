@@ -9,3 +9,8 @@ Samples/SdkSample.WinPhone/bin/*
 Samples/SdkSample.WinPhone/obj/*
 Samples/SdkSample.WinRT/bin/*
 Samples/SdkSample.WinRT/obj/*
+/SDK/Disk.Sdk/bin/Debug
+*.dll
+*.pdb
+*.suo
+/Samples/.vs/SdkSample.WPF/v15/Server/sqlite3

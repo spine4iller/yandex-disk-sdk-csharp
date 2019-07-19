@@ -49,7 +49,7 @@ namespace SdkSample.WPF
 
             this.DataContext = this;
             this.CreateSdkClient();
-            this.ShowLoginWindow();
+          //  this.ShowLoginWindow();
         }
 
         private string GetUniqueFileName(string sourceItem)

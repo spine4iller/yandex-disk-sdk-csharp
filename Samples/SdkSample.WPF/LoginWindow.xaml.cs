@@ -16,7 +16,7 @@ namespace SdkSample.WPF
     {
         /// TODO: Register your application https://oauth.yandex.ru/client/new and set here your application ID and return URL.
 
-#error define your client_id and return_url
+//#error define your client_id and return_url
         private const string CLIENT_ID = "";
         private const string RETURN_URL = "";
 
